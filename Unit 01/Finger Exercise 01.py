@@ -1,4 +1,4 @@
-#   This exercise was written with the assumption that none of the variables defined at the top would be over 1000, it simply tries to place the lowest odd number into the variable "lowest_number", and either prints that number out or prints a message that there are no odd numbers.
+#   This exercise was written with the assumption that none of the variables defined at the top would be over 1000. It simply tries to place the lowest odd number into the variable "lowest_number", and either prints that number out or prints a message that there are no odd numbers.
 
 x = 10
 y = 30
